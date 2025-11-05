@@ -99,7 +99,7 @@ We aim to create a **friendly, respectful, and collaborative environment**.
 * **Communicate constructively**: feedback should be helpful and polite.
 * **Report issues**: notify maintainers of harassment, inappropriate behavior, or unreliable data.
 
-Full Code of Conduct: see [Code of conduct](`./CODE_OF_CONDUCT.md`).
+Full Code of Conduct: see [Code of conduct](./CODE_OF_CONDUCT.md).
 
 ---
 
