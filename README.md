@@ -111,5 +111,5 @@ Africa Area Data is licensed under the **Open Database License (ODbL) 1.0**.
 * **Attribution is required**: include “Contains data from Africa Area Data, licensed under ODbL 1.0.”
 * If redistributing the database or derivatives, you must **share under ODbL 1.0**.
 
-Full license: see [`licence`](./LICENCE.md).
+Full license: see [licence](./LICENCE.md).
 
