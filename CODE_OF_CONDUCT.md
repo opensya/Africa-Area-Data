@@ -1,7 +1,3 @@
-Voici la version **complète en anglais** du Code de Conduite pour ton projet **Africa Area Data**, incluant la section sur la qualité des contributions :
-
----
-
 # Code of Conduct – Africa Area Data
 
 ## 1. Our Commitment
