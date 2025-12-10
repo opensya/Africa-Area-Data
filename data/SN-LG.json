@@ -1,0 +1,24 @@
+{
+  "name": "Louga",
+  "alt_names": ["Région de Louga"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-LG",
+  "iso_code": "SN-LG",
+  "population": 1125910,
+  "area_km2": 24889,
+  "coordinates": { "lat": 15.6171, "lng": -16.2238 },
+  "bounding_box": {
+    "north": 16.6,
+    "south": 15.0,
+    "east": -15.5,
+    "west": -16.8
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "Région du Nord-Ouest, caractérisée par le Ferlo.",
+  "neighbors": ["SN-SL", "SN-MT", "SN-DB", "SN-TH"]
+}
