@@ -1,0 +1,24 @@
+{
+  "name": "Matam",
+  "alt_names": ["Région de Matam"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-MT",
+  "iso_code": "SN-MT",
+  "population": 831632,
+  "area_km2": 29445,
+  "coordinates": { "lat": 15.9405, "lng": -13.2505 },
+  "bounding_box": {
+    "north": 16.6,
+    "south": 15.5,
+    "east": -12.5,
+    "west": -14.5
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "Région le long du fleuve Sénégal, à l'extrême Est.",
+  "neighbors": ["SN-SL", "SN-LG", "SN-TC"]
+}
