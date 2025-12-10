@@ -1,0 +1,24 @@
+{
+  "name": "Tambacounda",
+  "alt_names": ["Région de Tambacounda"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-TC",
+  "iso_code": "SN-TC",
+  "population": 987154,
+  "area_km2": 42364,
+  "coordinates": { "lat": 13.7547, "lng": -13.6766 },
+  "bounding_box": {
+    "north": 14.5,
+    "south": 13.0,
+    "east": -13.0,
+    "west": -15.0
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "La plus grande région du Sénégal en superficie (Sénégal Oriental).",
+  "neighbors": ["SN-MT", "SN-LG", "SN-KF", "SN-KD", "SN-KG"]
+}
