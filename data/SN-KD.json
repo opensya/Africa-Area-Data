@@ -1,0 +1,24 @@
+{
+  "name": "Kolda",
+  "alt_names": ["Région de Kolda"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-KD",
+  "iso_code": "SN-KD",
+  "population": 914797,
+  "area_km2": 13771,
+  "coordinates": { "lat": 12.8727, "lng": -14.9427 },
+  "bounding_box": {
+    "north": 13.2,
+    "south": 12.5,
+    "east": -14.4,
+    "west": -15.5
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "Située en Haute-Casamance.",
+  "neighbors": ["SN-SD", "SN-TC"]
+}
