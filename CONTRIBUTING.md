@@ -1,4 +1,4 @@
-# Contributing to Africa Area Data
+# Contributing to Area Open Data
 
 Thank you for your interest in contributing! Here’s how to get started:
 
