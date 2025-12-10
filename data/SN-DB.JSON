@@ -1,0 +1,24 @@
+{
+  "name": "Diourbel",
+  "alt_names": ["Région de Diourbel"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-DB",
+  "iso_code": "SN-DB",
+  "population": 2080332,
+  "area_km2": 4824,
+  "coordinates": { "lat": 14.6561, "lng": -16.2346 },
+  "bounding_box": {
+    "north": 15.1,
+    "south": 14.2,
+    "east": -15.6,
+    "west": -16.6
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "Région centrale, célèbre pour la ville sainte de Touba.",
+  "neighbors": ["SN-TH", "SN-LG", "SN-KF", "SN-FK"]
+}
