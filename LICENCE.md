@@ -1,6 +1,6 @@
-# Open Database License (ODbL) 1.0 – Africa Area Data
+# Open Database License (ODbL) 1.0 – Area Open Data
 
-Africa Area Data is published under the **Open Database License (ODbL) 1.0**.  
+Area Open Data is published under the **Open Database License (ODbL) 1.0**.  
 You are free to:
 
 - **Share**: copy, distribute, and use the database;  
@@ -10,7 +10,7 @@ You are free to:
 **Main Conditions**:
 
 1. **Attribution (BY)**  
-   Any use of the database or its derivatives must **credit Africa Area Data as the source**.  
+   Any use of the database or its derivatives must **credit Area Open Data as the source**.  
    - For redistributed projects, include a `NOTICE` file with the attribution.
 
 2. **Share-Alike (SA)**  
