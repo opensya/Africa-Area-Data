@@ -1,0 +1,24 @@
+{
+  "name": "Saint-Louis",
+  "alt_names": ["Région de Saint-Louis", "Ndar"],
+  "type": "region",
+  "parent": "SN",
+  "code": "SN-SL",
+  "iso_code": "SN-SL",
+  "population": 1202438,
+  "area_km2": 19241,
+  "coordinates": { "lat": 16.0357, "lng": -16.4804 },
+  "bounding_box": {
+    "north": 16.8,
+    "south": 15.0,
+    "east": -16.0,
+    "west": -17.0
+  },
+  "timezone": "GMT+0",
+  "status": "recognized",
+  "created_at": "2025-01-01",
+  "updated_at": "2025-12-10",
+  "links": ["https://www.ansd.sn/"],
+  "notes": "Ancienne capitale de l'AOF et site classé au patrimoine mondial de l'UNESCO.",
+  "neighbors": ["SN-LG", "SN-MT"]
+}
