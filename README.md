@@ -1,6 +1,6 @@
-# Africa Area Data
+# Area Open Data
 
-**Africa Area Data** is an **open-source project** that centralizes, structures, and makes accessible **all administrative geographic divisions of Africa**, from countries to regions, departments, communes, neighborhoods, and villages. All data uses a **single, standardized JSON format** for consistency and ease of use.
+**Area Open Data** is an **open-source project** that centralizes, structures, and makes accessible **all administrative geographic divisions of Africa**, from countries to regions, departments, communes, neighborhoods, and villages. All data uses a **single, standardized JSON format** for consistency and ease of use.
 
 ---
 
@@ -105,10 +105,10 @@ Full Code of Conduct: see [Code of conduct](./CODE_OF_CONDUCT.md).
 
 ## License
 
-Africa Area Data is licensed under the **Open Database License (ODbL) 1.0**.
+Area Open Data is licensed under the **Open Database License (ODbL) 1.0**.
 
 * You are free to **share, adapt, and use commercially**.
-* **Attribution is required**: include “Contains data from Africa Area Data, licensed under ODbL 1.0.”
+* **Attribution is required**: include “Contains data from Area Open Data, licensed under ODbL 1.0.”
 * If redistributing the database or derivatives, you must **share under ODbL 1.0**.
 
 Full license: see [licence](./LICENCE.md).
