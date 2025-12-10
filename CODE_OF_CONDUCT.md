@@ -1,4 +1,4 @@
-# Code of Conduct – Africa Area Data
+# Code of Conduct – Area Open Data
 
 ## 1. Our Commitment
 
